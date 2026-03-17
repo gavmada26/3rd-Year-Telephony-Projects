@@ -9,7 +9,6 @@ The repository is structured around two main technical reports, each detailing s
 
 * `DOCUMENTATIE_TELEFONIE_1_GAVRILAS_MADALIN.pdf`: Analysis and simulation of analog telephony call progress tones, pulse dialing, and DTMF signaling.
 * `DOCUMENTATIE_TELEFONIE_2_GAVRILAS_MADALIN.pdf`: Implementation and evaluation of uniform/non-uniform Pulse Code Modulation (PCM) and adaptive Delta Modulation algorithms.
-* `src/`: Contains the source code snippets and scripts extracted from the documentations.
 
 ---
 
